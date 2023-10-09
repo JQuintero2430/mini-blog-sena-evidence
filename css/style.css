@@ -1,0 +1,37 @@
+body {
+  background-color: #1f1f1f;
+  padding: 0px;
+  margin: 0px;
+  color: #ffffff;
+  font-size: 1.1em;
+  line-height: 1.6em;
+}
+.content {
+  padding: 20px;
+}
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
+a:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
+p {
+  text-indent: 2em;
+}
+img {
+  width: 80%;
+  height: auto;
+  align-items: center;
+}
+footer {
+  background-color: #333333;
+  padding: 8px;
+  border-top: 2px solid #444444;
+  font-size: 0.8em;
+  text-align: center;
+}
+footer a {
+  font-weight: bold;
+}
